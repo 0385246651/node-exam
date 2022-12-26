@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0385246651/node-exam.git"
+  },
+  "keywords": [
+    "f8",
+    "blog"
+  ],
+  "author": "haidv2k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0385246651/node-exam/issues"
+  },
+  "homepage": "https://github.com/0385246651/node-exam#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
